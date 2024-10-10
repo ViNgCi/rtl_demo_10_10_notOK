@@ -1,0 +1,29 @@
+ibex_pkg.sv \
+prim_assert.sv \
+csr.sv \
+ibex_counter.sv \
+ibex_multdiv_fast.sv \
+ibex_fetch_fifo.sv
+ALU.sv \
+BTALU_MUX.sv \
+alu_op_b_MUX.sv \
+alu_op_a_MUX.sv \
+controller.sv \
+Imm_Gen.sv \
+alu_decoder.sv \
+instr_decoder.sv \
+ibex_compressed_decoder.sv \
+ibex_prefetch_buffer.sv \
+CS_Register_TOP.sv \
+register_file.sv \
+WB_top.sv \
+LSU_top.sv \
+EX_top.sv \
+fsm_control.sv \
+ID_top.sv \
+IF_top.sv \
+riscv_core.sv 
+
+
+
+
